@@ -3,9 +3,15 @@
 <head> 
 	<meta charset="utf-8">
 	<title>Lab 05 – The Mantis Shrimp</title>
-	<link rel="stylesheet" type="text/css" href = "css/styles.css">
+	<link rel="stylesheet" type="text/css" href = "css/jmstyles.css">
+	<link rel="stylesheet" type="text/css" href="css/navigation.css">
 </head>
+
+ <?php include "inc/nav.php" ?>
+
 <body>
+
+<div class="container">
 
 <header>
 	<h1> Mantis Shrimp </h1>
@@ -14,7 +20,7 @@
 
 <article>
 	<h2>Background</h2>
-	<figure>
+	<figure class="constrain">
 		<img src = "images/frontmantisshrimp.jpg" alt = "Mantis Shrimp Photo">
 		<figcaption> A front facing mantis shrimp </figcaption>
 	</figure>
@@ -89,5 +95,11 @@
 	, page by Joe Madejski</p>
 </footer>
 
+</div> <!-- container -->
+
+
+ <?php include "inc/scripts.php" ?>
+
 </body>
+
 </html>

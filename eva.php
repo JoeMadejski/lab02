@@ -3,8 +3,11 @@
             <head> 
                 <meta charset="utf-8">
                 <title>Evangelion Data</title>
-                <link rel="stylesheet" type="text/css" href="css/styles.css">
+                <link rel="stylesheet" type="text/css" href="css/lgstyles.css">
+                <link rel="stylesheet" type="text/css" href="css/navigation.css">
             </head>
+
+            <?php include "inc/nav.php" ?>
 
             <body>
 
@@ -268,6 +271,9 @@
             </footer>
 
                 </div><!--.container-->
+
+
+             <?php include "inc/scripts.php" ?>
 
             </body>
 
