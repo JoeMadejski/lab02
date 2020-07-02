@@ -2,7 +2,7 @@
 <html lang="en">
 <head> 
 	<meta charset="utf-8">
-	<title>Lab 05 – The Mantis Shrimp</title>
+	<title>Lab 02 – The Mantis Shrimp</title>
 	<link rel="stylesheet" type="text/css" href = "css/jmstyles.css">
 	<link rel="stylesheet" type="text/css" href="css/navigation.css">
 </head>

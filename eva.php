@@ -2,7 +2,7 @@
             <html>
             <head> 
                 <meta charset="utf-8">
-                <title>Evangelion Data</title>
+                <title>Lab 02 - Evangelion Data</title>
                 <link rel="stylesheet" type="text/css" href="css/lgstyles.css">
                 <link rel="stylesheet" type="text/css" href="css/navigation.css">
             </head>
