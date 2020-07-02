@@ -3,7 +3,7 @@
 <head> 
 	<meta charset="utf-8">
 	<title>Lab 02 – The Mantis Shrimp</title>
-	<link rel="stylesheet" type="text/css" href = "css/jmstyles.css">
+	<link rel="stylesheet" type="text/css" href = "css/styles.css">
 	<link rel="stylesheet" type="text/css" href="css/navigation.css">
 </head>
 
