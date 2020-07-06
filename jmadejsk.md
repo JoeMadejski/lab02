@@ -11,9 +11,8 @@
 <article>
 
 ## Background
-
-<figure class="constrain">
 ![Mantis Shrimp Photo](images/frontmantisshrimp.jpg)
+<figure class="constrain">
 
 <figcaption>A front facing mantis shrimp</figcaption>
 
