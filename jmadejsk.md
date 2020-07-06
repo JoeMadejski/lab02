@@ -1,12 +1,11 @@
 <div class="container">
 
-<header>
 
 # Mantis Shrimp
 
 <div>An Absolute Beast</div>
 
-</header>
+
 
 <article>
 
