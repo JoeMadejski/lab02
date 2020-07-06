@@ -1,4 +1,4 @@
-<div class="container">
+
 
 
 # Mantis Shrimp
@@ -7,7 +7,7 @@
 
 
 
-<article>
+
 
 ## Background
 
@@ -45,9 +45,9 @@ In Cantonese cuisine, the mantis shrimp is known as "pissing shrimp" (Chinese: ç
 
 In the Mediterranean countries, the mantis shrimp Squilla mantis is a common seafood, especially on the Adriatic coasts (canocchia) and the Gulf of CÃ¡diz (galera). In the Philippines, the mantis shrimp is known as tatampal, hipong-dapa, or alupihang-dagat, and is cooked and eaten like any other shrimp. In Hawaii, some mantis shrimp have grown unusually large in the contaminated water of the Grand Ala Wai Canal in Waikiki. The dangers normally associated with consuming seafood caught in contaminated waters are present in these mantis shrimp.
 
-</article>
 
-<aside>
+
+
 
 ## Cool Features
 
@@ -73,9 +73,9 @@ Lots of cool things about mantis shrimp, including:
 *   Can grow to a foot long
 *   Can shoot water at you after being picked up
 
-</aside>
 
-<footer>
+
+
 
 ## Citations
 
@@ -87,6 +87,4 @@ Lots of cool things about mantis shrimp, including:
 
 Wikipedia Mantis Shrimp: [Source Wikipedia Article](https://en.wikipedia.org/wiki/Mantis_shrimp) , page by Joe Madejski
 
-</footer>
 
-</div>
