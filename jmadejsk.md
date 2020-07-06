@@ -12,7 +12,8 @@
 
 ## Background
 
-<figure class="constrain">![Mantis Shrimp Photo](/lab02/images/frontmantisshrimp.jpg)
+<figure class="constrain">
+![Mantis Shrimp Photo](images/frontmantisshrimp.jpg)
 
 <figcaption>A front facing mantis shrimp</figcaption>
 
