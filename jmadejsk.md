@@ -3,7 +3,7 @@
 
 # Mantis Shrimp
 
-<div>An Absolute Beast</div>
+An Absolute Beast
 
 
 
@@ -13,7 +13,7 @@
 
 
 ![Mantis Shrimp Photo](images/frontmantisshrimp.jpg)
-<figcaption>A front facing mantis shrimp</figcaption>
+A front facing mantis shrimp
 
 Mantis shrimps, or stomatopods, are marine crustaceans of the order Stomatopoda. Some species have specialised calcified "clubs" that can strike with great power, while others have sharp forelimbs used to capture prey. They branched from other members of the class Malacostraca around 340 million years ago. Mantis shrimps typically grow to around 10 cm (3.9 in) in length. A few can reach up to 38 cm (15 in). The largest mantis shrimp ever caught had a length of 46 cm (18 in); it was caught in the Indian River near Fort Pierce, Florida, in the United States.
 
@@ -25,7 +25,7 @@ Called "sea locusts" by ancient Assyrians, "prawn killers" in Australia,[and now
 
 ![Shrimp Eyes](images/shrimpeyes.jpeg)
 
-<figcaption>A close up of mantis shrimp eyes</figcaption>
+A close up of mantis shrimp eyes
 
 The mantis shrimp's second pair of thoracic appendages has been adapted for powerful close-range combat with high modifications. The appendage differences divide mantis shrimp into two main types: those that hunt by impaling their prey with spear-like structures and those that smash prey with a powerful blow from a heavily mineralised club-like appendage. A considerable amount of damage can be inflicted after impact with these robust, hammer-like claws. This club is further divided into three subregions: the impact region, the periodic region, and the striated region. Mantis shrimp are commonly separated into two distinct groups determined by the type of claws they possess.
 
